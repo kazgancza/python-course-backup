@@ -1,6 +1,6 @@
-# Kopiuje pliki wideo dzieląc je na pionowe, poziome i kwadratowe
-# Foldery muszą być wcześniej stworzone
-# Nie może być innych plików i folderów
+# Copies all of videos in a foler into seperate folders filting by horizontal, vertical and square.
+# Folders must be created earlier
+# There can not be other files/folders
 
 import os
 import cv2
