@@ -1,0 +1,6 @@
+numbers = (50, 100, 150, 200, 250)
+print("Typ zmiennej:", type(numbers))
+print("Ilość elementów w zmiennej:", len(numbers))
+print("Ostatni element zmiennej:", numbers[-1])
+print("Elementy od drugiego do czwartego:", numbers[1:4])
+print("Trzeci element od końca:", numbers[-3])
